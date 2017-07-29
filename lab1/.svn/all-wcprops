@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/cse241_fl13/svn/Sukesan-426028/!svn/ver/14/lab1
+END
+compile.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/cse241_fl13/svn/Sukesan-426028/!svn/ver/4/lab1/compile.sh
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/cse241_fl13/svn/Sukesan-426028/!svn/ver/4/lab1/test.sh
+END
+autograder.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/cse241_fl13/svn/Sukesan-426028/!svn/ver/8/lab1/autograder.txt
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/cse241_fl13/svn/Sukesan-426028/!svn/ver/4/lab1/run.sh
+END
